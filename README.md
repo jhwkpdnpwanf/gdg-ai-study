@@ -1,1 +1,1 @@
-"# gdg-ai-study" 
+# GDG AI STUDY
